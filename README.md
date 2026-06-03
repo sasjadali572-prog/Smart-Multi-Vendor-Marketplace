@@ -27,3 +27,5 @@ ADBMS Semester Project developed using MongoDB, Express.js, React.js, and Node.j
 ## Developed By
 
 Syed Asjad Ali
+Abdul Nabi
+M.Hasnain Ali
